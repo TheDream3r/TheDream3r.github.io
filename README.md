@@ -32,3 +32,9 @@ npm run build
 ```sh
 git subtree push --prefix dist origin gh-pages
 ```
+
+
+
+### Used for makeing it fancy
+https://primevue.org/
+(or im currently trying...)
