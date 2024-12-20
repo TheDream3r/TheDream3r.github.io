@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,a as t,o as s}from"./index-CQyda2hY.js";const n={},c={class:"HexConverter"};function a(_,e){return s(),o("div",c,e[0]||(e[0]=[t("h1",null,"This is the hex converter",-1)]))}const l=r(n,[["render",a]]);export{l as default};
