@@ -29,4 +29,4 @@ npm run build
 ```
 
 ### How to push into the subtree
-subtree push --prefix *HERE FULL PATH* https://github.com/TheDream3r/dream.git gh-pages
+git subtree push --prefix dist origin gh-pages
