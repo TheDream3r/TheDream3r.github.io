@@ -1,0 +1,1 @@
+import{_ as r,c as t,a as o,o as s}from"./index-_WFuC35i.js";const n={},c={class:"HexConverter"};function a(_,e){return s(),t("div",c,e[0]||(e[0]=[o("h1",null,"This is the hex converter",-1)]))}const l=r(n,[["render",a]]);export{l as default};

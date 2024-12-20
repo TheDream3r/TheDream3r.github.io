@@ -29,4 +29,6 @@ npm run build
 ```
 
 ### How to push into the subtree
+```sh
 git subtree push --prefix dist origin gh-pages
+```
